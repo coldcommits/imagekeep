@@ -1,6 +1,6 @@
 # imagekeep
 
-Small desktop python app for sorting through photo folders. Pick folder, and it goes through every image one at a time and you can choose to keep or delete it. Deleted images go to your Trash Bin. **You must confirm delete in your trash can**
+Small desktop python app for sorting through photo folders. Pick folder, and it goes through every image one at a time and you can choose to keep or delete it. Deleted images go to your Trash Bin. **You must confirm delete in your trash can.**
 Works on Windows so far.
 
 ## Features
